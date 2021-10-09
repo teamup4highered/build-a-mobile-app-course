@@ -50,13 +50,13 @@ Test on real mobile device, either Android or iPhone.
 Develop an app as a team using data from an API, test and publish the app
 
 **Requirements to complete:** 
-Launch the app on a real mobile device
+1. Launch the app on a real mobile device
 
-## Module 4 - Deploy your own app
+### Module 4 - Deploy your own app
 Develop an app as an individual or as a team, test and publish the app
 
 **Requirements to complete**
-Create a public portfolio site that includes
+1. Create a public portfolio site that includes
 * App source code
 * App demo recording
 * One peer review given by you for a peer project 
