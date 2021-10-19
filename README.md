@@ -15,14 +15,13 @@
 
 ### Course Rules
 * Anyone can join and learn
-* You need to sign up if you would like to complete the course
+* Sign Up [COMMING SOON]
 
 ### Course details
 * course is running for the first time
 * course summaries will be written as we go and published on github
 * must complete the course work to progress to the next step
 * weekly meetups
-* there are no certificates for this course
 
 ## Course Modules
 
@@ -43,8 +42,8 @@ Test on real mobile device, either Android or iPhone.
 
 **Requirements to complete:** 
 1. pulish a test link for others to test
-2. receive two peer reviews for your app
-3. give two peer reviews after testing peer apps
+2. receive one peer reviews for your app
+3. give one peer reviews after testing peer apps
 
 ### Module 3 - Build an app for API data
 Develop an app as a team using data from an API, test and publish the app
@@ -59,5 +58,4 @@ Develop an app as an individual or as a team, test and publish the app
 1. Create a public portfolio site that includes
 * App source code
 * App demo recording
-* One peer review given by you for a peer project 
-
+* One peer review given by you for a peer course project 
