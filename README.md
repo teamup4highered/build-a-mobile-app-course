@@ -25,6 +25,9 @@
 
 ## Course Modules
 
+### Module 0 - Set up development envirnment
+[README.md](Readme.md) contains information about the developemnt ebvironment
+
 ### Module 1 - Sample To Do Project
 Follow [AWS Amplify tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) to build the ToDo app.
 
