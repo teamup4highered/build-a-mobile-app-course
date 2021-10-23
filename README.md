@@ -1,9 +1,6 @@
 # Build a mobile app with AWS Amplify and Flutter course
 
-## Inspired by
-* [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/)
-* [BlockDevsUnited NFT Course](https://github.com/BlockDevsUnited/NFT-COURSE)
-* [Open Education Resources at eClampus Ontario](https://openlibrary.ecampusontario.ca/create/)
+[Join](https://discord.gg/pjEHqRyKUz) the course
 
 ## This course is for you if
 * you would like to learn mobile app development
@@ -62,3 +59,9 @@ Develop an app as an individual or as a team, test and publish the app
 * App source code
 * App demo recording
 * One peer review given by you for a peer course project 
+
+## Inspired by
+* [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/)
+* [BlockDevsUnited NFT Course](https://github.com/BlockDevsUnited/NFT-COURSE)
+* [Open Education Resources at eClampus Ontario](https://openlibrary.ecampusontario.ca/create/)
+
