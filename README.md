@@ -22,11 +22,14 @@
 
 ## Course Modules
 
-### Module 0 - Set up development envirnment
-[README-DevENV.md](README-DevENV.md) contains information about the developemnt environment
+### Module 0 - Set up development environment
+1. [README-DevENV.md](README-DevENV.md) contains information about the Flutter developemnt environment
+1. [AWS Development Environment](https://aws.amazon.com/getting-started/guides/setup-environment/) and complete steps 1,2 and 3
+1. [Amplify Development Environment](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) and complete prerequites page
 
 ### Module 1 - Sample To Do Project
-Follow [AWS Amplify tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) to build the ToDo app.
+1. Follow [AWS Amplify tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) to build the ToDo app.
+1. [Example App](https://github.com/aws-amplify/amplify-flutter)
 
 Test on real mobile device, either Android or iPhone.
 
