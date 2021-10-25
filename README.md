@@ -11,11 +11,11 @@
 ## This course is for you if
 * you would like to learn mobile app development
 * you enjoy peer-to-peer learning in a group environment
-* you are eager to contribute to open source community created learning
+* you enjoy contributing to open source projects
 * you would like to build your network
 
 ## Course Information
-* Anyone can join and learn
+* anyone can join and learn
 * course is running for the first time
 * course summaries will be written as we go and published on github
 * must complete current module to progress to the next
@@ -35,7 +35,7 @@
 Test on real mobile device, either Android or iPhone.
 
 **Requirements to complete:** 
-1. pulish a test link for others to test
+1. publish a app for others to test
 2. receive one peer review for your app
 3. give one peer review after testing a peer app
 
@@ -45,7 +45,7 @@ Set up [user authentication with AWS Cognito and Amplify](https://docs.amplify.a
 Test on real mobile device, either Android or iPhone.
 
 **Requirements to complete:** 
-1. pulish a test link for others to test
+1. pulish a app for others to test
 2. receive one peer reviews for your app
 3. give one peer reviews after testing peer apps
 
@@ -68,4 +68,3 @@ Develop an app as an individual or as a team, test and publish the app
 * [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/)
 * [BlockDevsUnited NFT Course](https://github.com/BlockDevsUnited/NFT-COURSE)
 * [Open Education Resources at eClampus Ontario](https://openlibrary.ecampusontario.ca/create/)
-
