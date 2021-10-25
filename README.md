@@ -1,6 +1,12 @@
 # Build a mobile app with AWS Amplify and Flutter course
 
-[Join](https://discord.gg/pjEHqRyKUz) the course
+## Announcements - Oct 24, 2021
+
+* Course starts on November 1, 2021
+* Next Meetup is on Saturday, Oct 30 at 9am and 3pm EST to discuss prerequisites
+* Module 0 - Prerequisites - due by midnight on October 31, 2021
+
+[Join Discord Server](https://discord.gg/pjEHqRyKUz) to enroll in the course and start learnig.
 
 ## This course is for you if
 * you would like to learn mobile app development
@@ -9,20 +15,17 @@
 * you would like to build your network
 
 ## Course Information
-
-### Course Rules
-* Anyone can join and learn
-* Sign Up [COMMING SOON]
-
+ 
 ### Course details
+* Anyone can join and learn
 * course is running for the first time
 * course summaries will be written as we go and published on github
-* must complete the course work to progress to the next step
-* weekly meetups
+* must complete current module to progress to the next
+* weekly meetups 
 
 ## Course Modules
 
-### Module 0 - Set up development environment
+### Module 0 - Prerequisites
 1. [README-DevENV.md](README-DevENV.md) contains information about the Flutter developemnt environment
 1. [AWS Development Environment](https://aws.amazon.com/getting-started/guides/setup-environment/) and complete steps 1,2 and 3
 1. [Amplify Development Environment](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) and complete prerequites page
