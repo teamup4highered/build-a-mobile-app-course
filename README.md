@@ -35,7 +35,7 @@
 Test on real mobile device, either Android or iPhone.
 
 **Requirements to complete:** 
-1. publish a app for others to test
+1. publish your app for others to test
 2. receive one peer review for your app
 3. give one peer review after testing a peer app
 
@@ -45,7 +45,7 @@ Set up [user authentication with AWS Cognito and Amplify](https://docs.amplify.a
 Test on real mobile device, either Android or iPhone.
 
 **Requirements to complete:** 
-1. pulish a app for others to test
+1. publish your app for others to test
 2. receive one peer reviews for your app
 3. give one peer reviews after testing peer apps
 
