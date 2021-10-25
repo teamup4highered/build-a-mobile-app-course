@@ -47,7 +47,7 @@ Test on real mobile device, either Android or iPhone.
 **Requirements to complete:** 
 1. publish your app for others to test
 2. receive one peer reviews for your app
-3. give one peer reviews after testing peer apps
+3. give one peer review after testing a peer app
 
 ### Module 3 - Build an app for API data
 Develop an app as a team using data from an API, test and publish the app
