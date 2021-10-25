@@ -15,8 +15,6 @@
 * you would like to build your network
 
 ## Course Information
- 
-### Course details
 * Anyone can join and learn
 * course is running for the first time
 * course summaries will be written as we go and published on github
