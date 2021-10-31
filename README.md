@@ -41,7 +41,7 @@
 1. Post the URL for your app code in the course Discord channel [m1-todo-app](https://discord.gg/NcZGzgxB and write that you would like to receive a peer review.
 1. Look for posts from other course participants who would like to receive peer reviews and give at least one peer review. **Plase remember to give positive feedback that helps (not hurts) and motivates learning.**
 
-**Additional Resources:**
+**Resources:**
 
 1. [AWS Amplify Flutter Datastore Starter](https://github.com/cshfang/amplify-flutter-datastore-starter/tree/main/amplified_todo) github repo for the tutorial inthe requirements
 1. [AWS Amplify and Flutter](https://github.com/aws-amplify/amplify-flutter) github repo by Dillon Nys
