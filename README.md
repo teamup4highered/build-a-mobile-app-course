@@ -3,11 +3,12 @@
 ## Announcements - October 31, 2021
 
 * Module 1 hands-on sessions are on Saturday, Nov 6, 2021 at 9am EST and 3pm EST in the [course discord server](https://discord.gg/pjEHqRyKUz).
-* Requirements for [Module 1 - Sample To Do Project](<#module-1>) are posted and due on Sunday, Nov 7, 2021 at midnight.
+* Requirements for [Module 1 - ToDo App](<#module-1>) are posted and due on Sunday, Nov 7, 2021 at midnight.
 * Added [Participants' Portfolios November 2021](README-Portfolios-202111.md) 
 
 [Join The Course Discord Server](https://discord.gg/pjEHqRyKUz) | 
-[Past Announcements](README-announcements.md) Archive
+[Participants's Portfolios](README-Portfolios-202111.md) |
+[Past Announcements](README-announcements.md)
 
 ## This course is for you if
 * you would like to learn mobile app development
@@ -31,7 +32,7 @@
 
 ### Module 1 
 
-Sample To Do Project with AWS Amplify datastore
+**ToDo App with AWS Amplify datastore**
 
 **Requirements to complete:** 
 
@@ -46,7 +47,10 @@ Sample To Do Project with AWS Amplify datastore
 1. [AWS Amplify and Flutter](https://github.com/aws-amplify/amplify-flutter) github repo by Dillon Nys
 1. [Todo App with Flutter Using AWS Amplify and BLoC | Day 18 and 19](https://www.youtube.com/watch?v=WJKKEZu_xnY) by Kilo Loco in [#20DaysOfFlutter](https://www.youtube.com/hashtag/30daysofflutter) 
 
-### Module 2 - Set up multiuser project
+### Module 2
+
+**App with multiuser project and AWS Auth**
+
 Set up [user authentication with AWS Cognito and Amplify](https://docs.amplify.aws/lib/auth/getting-started/q/platform/flutter/) for your app.
 
 Test on real mobile device, either Android or iPhone.
