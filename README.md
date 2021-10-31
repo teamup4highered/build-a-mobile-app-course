@@ -3,7 +3,7 @@
 ## Announcements - October 31, 2021
 
 * Module 1 hands-on sessions are on Saturday, Nov 6, 2021 at 9am EST and 3pm EST in the [course discord server]((https://discord.gg/pjEHqRyKUz) ).
-* Requirements for [Module 1 - Sample To Do Project](#module-1---sample-to-do-project) are posted and due on Sunday, Nov 7, 2021 at midnight.
+* Requirements for [Module 1 - Sample To Do Project](<#module-1>) are posted and due on Sunday, Nov 7, 2021 at midnight.
 * Post your portfolio URL in slack to be added to [Participants' Portfolios November 2021](README-Portfolios-202111.md) 
 
 [Join The Course Discord Server](https://discord.gg/pjEHqRyKUz) | 
