@@ -36,14 +36,14 @@
 
 **Requirements to complete:** 
 
-1. Follow [AWS Amplify tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) to build the sample ToDo app that uses AWS Amplify datastore. Then customize your app by changing the app title and color theme. Optionally, you can add more features to your app as you wish.
-1. Check-in your code with instructions of how to compile it in your GitHub Portfolio folder.
+1. Follow [AWS Amplify tutorial](https://docs.amplify.aws/start/getting-started/installation/q/integration/flutter/) to build the sample ToDo app that uses AWS Amplify datastore. Then customize your app by changing the app title and color theme. Optionally, you can add more features to your app if you wish.
+1. Check-in your code with instructions on how to run it in your GitHub Portfolio folder.
 1. Post the URL for your app code in the course Discord channel [m1-todo-app](https://discord.gg/NcZGzgxB and write that you would like to receive a peer review.
 1. Look for posts from other course participants who would like to receive peer reviews and give at least one peer review. **Plase remember to give positive feedback that helps (not hurts) and motivates learning.**
 
 **Resources:**
 
-1. [AWS Amplify Flutter Datastore Starter](https://github.com/cshfang/amplify-flutter-datastore-starter/tree/main/amplified_todo) github repo for the tutorial inthe requirements
+1. [AWS Amplify Flutter Datastore Starter](https://github.com/cshfang/amplify-flutter-datastore-starter/tree/main/amplified_todo) github repo for the tutorial in the requirements
 1. [AWS Amplify and Flutter](https://github.com/aws-amplify/amplify-flutter) github repo by Dillon Nys
 1. [Todo App with Flutter Using AWS Amplify and BLoC | Day 18 and 19](https://www.youtube.com/watch?v=WJKKEZu_xnY) by Kilo Loco in [#20DaysOfFlutter](https://www.youtube.com/hashtag/30daysofflutter) 
 
